@@ -51,6 +51,8 @@
 <br />
 <br />
 
+[![Spotify](https://novatorem-zolderix.vercel.app/api/spotify)](https://open.spotify.com/user/6vhr7kio7x2p0wd01d40qwzzy)
+
 ---
 
 ### 📺 Latest YouTube Videos
