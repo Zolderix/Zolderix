@@ -2,8 +2,9 @@
 
 [![Website](https://img.shields.io/website?label=zolderix.com&style=for-the-badge&url=https%3A%2F%2Fzolderix.com)](https://zolderix.com)
 
-
-## I'm a Photographer, Huge coffee lover, Developer, and simply a Good guy!!
+---
+## About me:
+### I'm a Photographer, Huge coffee lover, Developer, and simply a Good guy!!
 
 - 🌱 I’m currently learning C++, MERN stack and Computer Science
 - 🥅 2021 Goals: Learn C++ to the companies working level and grow in WEB
@@ -23,11 +24,8 @@
 [![vk](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/zolderix)
 &nbsp;
 
-
 [comment]: <> ([![Twitter Follow]&#40;https://img.shields.io/twitter/follow/zolderix?color=1DA1F2&logo=twitter&style=for-the-badge&#41;]&#40;https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fzolderix&screen_name=Zolderix&#41;)
-
 <br />
-
 
 ### Languages and Tools:
 
@@ -35,6 +33,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="jquery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
 <img align="left" alt="Yii" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yii/yii.png" />
@@ -50,8 +49,10 @@
 
 <br />
 <br />
+<br />
 
-[![Spotify](https://novatorem-zolderix.vercel.app/api/spotify)](https://open.spotify.com/user/6vhr7kio7x2p0wd01d40qwzzy)
+### 🎧 Listening now
+[![Spotify](https://novatorem-zolderix.vercel.app/api/spotify)](https://open.spotify.com/user/zolderix)
 
 ---
 
@@ -67,14 +68,6 @@
 
 <!-- BLOG-POST-LIST:END -->
 ---
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
 <details>
   <summary>⚡ GitHub Stats</summary>
 
