@@ -42,20 +42,16 @@
 
 ### 📺 Latest YouTube Videos
 
-[comment]: <> (<!-- YOUTUBE:START -->)
+<!-- YOUTUBE:START -->
 
-[comment]: <> (<!-- YOUTUBE:END -->)
-
+<!-- YOUTUBE:END -->
 ---
-
 ### 📕 Latest Blog Posts
 
-[comment]: <> (<!-- BLOG-POST-LIST:START -->)
+<!-- BLOG-POST-LIST:START -->
 
-[comment]: <> (<!-- BLOG-POST-LIST:END -->)
-
+<!-- BLOG-POST-LIST:END -->
 ---
-
 <details>
   <summary> Recent GitHub Activity</summary>
   
@@ -64,10 +60,10 @@
 <!--END_SECTION:activity-->
 
 </details>
-
+---
 <details>
   <summary> GitHub Stats</summary>
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zolderix&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zolderix&show_icons=true&hide_border=true"&theme=dracula />
 
 </details>
 
