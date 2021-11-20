@@ -6,7 +6,6 @@
 
 ## I'm a Photographer, Huge coffee lover, Developer, and simply a Good guy!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning C++, MERN stack and Computer Science
 - 🥅 2021 Goals: Learn C++ to the companies working level and grow in WEB
 - ⚡ Fun fact: I love to play guitar / ukulele and just started in leather work
