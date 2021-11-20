@@ -43,7 +43,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
+- [Daily routine via quarantine](https://www.youtube.com/watch?v=PLkeJjUWJiI)
 <!-- YOUTUBE:END -->
 ---
 ### 📕 Latest Blog Posts
