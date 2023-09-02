@@ -6,9 +6,7 @@
 ## About me:
 ### I'm a Photographer, Huge coffee lover, Developer, and simply a Good guy!!
 
-- 🌱 I’m currently learning C++, MERN stack and Computer Science
-- 🥅 2021 Goals: Learn C++ to the companies working level and grow in WEB
-- ⚡ Fun fact: I love to play guitar / ukulele and I'm average Leathercraft enjoyer
+- ⚡ Fun fact: I love to play guitar / ukulele
 
 ### Connect with me:
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zolderix)
