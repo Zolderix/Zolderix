@@ -4,7 +4,7 @@
 
 ---
 ## About me:
-### I'm a Photographer, Huge coffee lover, Developer, and simply a Good guy!!
+### I'm a C++ Developer, Huge coffee lover, professional photographer, and simply a Good guy!!
 
 - ⚡ Fun fact: I love to play guitar / ukulele
 
